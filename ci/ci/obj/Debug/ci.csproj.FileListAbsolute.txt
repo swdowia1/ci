@@ -1,0 +1,12 @@
+C:\dyskD\wywal\cisw\trunk\ci\ci\bin\Debug\ci.exe.config
+C:\dyskD\wywal\cisw\trunk\ci\ci\bin\Debug\ci.exe
+C:\dyskD\wywal\cisw\trunk\ci\ci\bin\Debug\ci.pdb
+C:\dyskD\wywal\cisw\trunk\ci\ci\obj\Debug\ci.csprojResolveAssemblyReference.cache
+C:\dyskD\wywal\cisw\trunk\ci\ci\obj\Debug\ci.Form1.resources
+C:\dyskD\wywal\cisw\trunk\ci\ci\obj\Debug\ci.Properties.Resources.resources
+C:\dyskD\wywal\cisw\trunk\ci\ci\obj\Debug\ci.csproj.GenerateResource.Cache
+C:\dyskD\wywal\cisw\trunk\ci\ci\obj\Debug\ci.exe
+C:\dyskD\wywal\cisw\trunk\ci\ci\obj\Debug\ci.pdb
+C:\dyskD\wywal\output\ci.exe.config
+C:\dyskD\wywal\output\ci.exe
+C:\dyskD\wywal\output\ci.pdb
