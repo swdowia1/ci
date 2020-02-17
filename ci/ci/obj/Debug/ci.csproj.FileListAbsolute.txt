@@ -10,3 +10,6 @@ C:\dyskD\wywal\cisw\trunk\ci\ci\obj\Debug\ci.pdb
 C:\dyskD\wywal\output\ci.exe.config
 C:\dyskD\wywal\output\ci.exe
 C:\dyskD\wywal\output\ci.pdb
+C:\dyskD\wywal\git\ci\ci\bin\Debug\ci.exe.config
+C:\dyskD\wywal\git\ci\ci\obj\Debug\ci.exe
+C:\dyskD\wywal\git\ci\ci\obj\Debug\ci.pdb

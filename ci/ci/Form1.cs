@@ -12,7 +12,7 @@ namespace ci
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("zmiany sobotnie");
+            MessageBox.Show("zmiany sobotnie11");
             //jakis zmiana
         }
     }
